@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BB09E7C-4A54-44F7-9092-51462829836E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Master-Detail</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3C0FAF66-373B-44AD-88BA-872E34FD8CB3</key>
+		<string>https://github.com/Panewell/Master-Detail.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Master-Detail.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3C0FAF66-373B-44AD-88BA-872E34FD8CB3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Panewell/Master-Detail.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3C0FAF66-373B-44AD-88BA-872E34FD8CB3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3C0FAF66-373B-44AD-88BA-872E34FD8CB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Master-Detail</string>
+		</dict>
+	</array>
+</dict>
+</plist>
